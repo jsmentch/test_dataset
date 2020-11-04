@@ -1,0 +1,1 @@
+42c9be92-9719-4309-9c63-c042def347c3 chunk=256MB encryption=none externaltype=rclone name=gdrive prefix=projects/jsmentch rclone_layout=lower target=gd-sig type=external timestamp=1604510309.327506s
